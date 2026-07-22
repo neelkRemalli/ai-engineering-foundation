@@ -1,7 +1,15 @@
 # AI Engineering Foundation
 
-This repository contains my learning projects.
+Learning AI Engineering from scratch.
 
 ## Modules
 
-- Module 01 - Google Colab Fundamentals
+- Module 1 - Google Colab
+- Module 2 - Python
+- Module 3 - Packages
+- Module 4 - Git
+- Module 5 - GitHub
+
+## Author
+
+NeelkRemalli
