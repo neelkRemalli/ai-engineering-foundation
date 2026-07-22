@@ -9,7 +9,7 @@ Learning AI Engineering from scratch.
 - Module 3 - Packages
 - Module 4 - Git & Github
 - Module 5 - HTTP Basics
-- Module 6 - APIs
+- Module 6 - API Basics
 
 ## Author
 
