@@ -7,8 +7,8 @@ Learning AI Engineering from scratch.
 - Module 1 - Google Colab
 - Module 2 - Python
 - Module 3 - Packages
-- Module 4 - Git
-- Module 5 - GitHub
+- Module 4 - Git & Github
+- Module 5 - HTTP Basics
 
 ## Author
 
