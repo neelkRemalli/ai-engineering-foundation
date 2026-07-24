@@ -11,6 +11,7 @@ Learning AI Engineering from scratch.
 - Module 5 - HTTP Basics
 - Module 6 - API Basics
 - Module 7 - JSON Basics
+- Module 8 — Environment Variables
 
 ## Author
 
