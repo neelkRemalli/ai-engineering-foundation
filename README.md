@@ -12,7 +12,7 @@ Learning AI Engineering from scratch.
 - Module 6 - API Basics
 - Module 7 - JSON Basics
 - Module 8 — Environment Variables
-- Module 10 - Clean Code
+- Module 9 - Clean Code
 
 ## Author
 
