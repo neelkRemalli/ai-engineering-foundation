@@ -13,7 +13,8 @@ Learning AI Engineering from scratch.
 - Module 7 - JSON Basics
 - Module 8 — Environment Variables
 - Module 9 - Clean Code
-- Module 11 - Debugging
+- Module 10 - Debugging
+- Module 11 — Basic Project Structure
 
 ## Author
 
